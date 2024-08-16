@@ -6,9 +6,9 @@
 
 **Features:**
 
-** Blood Donation Requests:** Users can view and accept donation requests. Upon acceptance, the details of the person requesting blood are displayed to the donor.
+**Blood Donation Requests**: Users can view and accept donation requests. Upon acceptance, the details of the person requesting blood are displayed to the donor.
 
-** Blood Request Form:** Users can create a new blood request by filling out a form with necessary details, including blood group, address, patient name, and age. This request is then sent to other users with the matching blood group.
+**Blood Request Form:** Users can create a new blood request by filling out a form with necessary details, including blood group, address, patient name, and age. This request is then sent to other users with the matching blood group.
 
 **Challenges:**
 
